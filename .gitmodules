@@ -1,0 +1,3 @@
+[submodule "LivePhoto"]
+	path = LivePhoto
+	url = git@github.com:MirageTurtle/LivePhoto.git
